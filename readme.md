@@ -10,7 +10,7 @@ A modern personal portfolio website built with **HTML**, **CSS**, **Bootstrap**,
 
 - Fully responsive design
 - Smooth scrolling and animations with jQuery
-- Clean, professional layout for showcasing your work
+- Clean, professional layout for showcasing my work
 - Sections for about, skills, projects, and contact
 - Built with Bootstrap for fast and flexible styling
 
@@ -18,7 +18,7 @@ A modern personal portfolio website built with **HTML**, **CSS**, **Bootstrap**,
 
 - HTML5
 - CSS3
-- Bootstrap 4/5 (specify your version if you want)
+- Bootstrap 
 - jQuery
 
 ## 🚀 How to Run Locally
